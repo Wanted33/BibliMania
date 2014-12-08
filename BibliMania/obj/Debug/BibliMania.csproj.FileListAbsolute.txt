@@ -1,1 +1,7 @@
 C:\Users\Quentin Rubini\Documents\BibliMania\BibliMania\bin\Debug\BibliMania.exe.config
+\\psf\Home\Desktop\BibliMania\BibliMania\bin\Debug\BibliMania.exe.config
+\\psf\Home\Desktop\BibliMania\BibliMania\bin\Debug\BibliMania.exe
+\\psf\Home\Desktop\BibliMania\BibliMania\bin\Debug\BibliMania.pdb
+\\psf\Home\Desktop\BibliMania\BibliMania\obj\Debug\BibliMania.csprojResolveAssemblyReference.cache
+\\psf\Home\Desktop\BibliMania\BibliMania\obj\Debug\BibliMania.exe
+\\psf\Home\Desktop\BibliMania\BibliMania\obj\Debug\BibliMania.pdb
